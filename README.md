@@ -78,6 +78,7 @@
 
 - [cerebro-es-everything-plugin](https://www.npmjs.com/package/cerebro-es-everything-plugin) - Cerebro Everything by voidtools interface plugin.
 - [cerebro-windows-system](https://www.npmjs.com/package/cerebro-windows-system) - Cerebro plugin to automate some windows features.
+- [cerebro-steamlaunch](https://github.com/Wolvan/cerebro-steamlaunch) - Cerebro plugin to launch steam games
 
 #### Linux
 
